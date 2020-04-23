@@ -1,0 +1,4 @@
+name: qEnchants
+version: 1.0
+main: com.hcrival.enchants.Enchants
+depend: [qLib]

@@ -1,0 +1,4 @@
+name: qEnchants
+version: ${project.version}
+main: com.hcrival.enchants.Enchants
+depend: [qLib]
